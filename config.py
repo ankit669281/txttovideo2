@@ -2,7 +2,7 @@ import os
 
 API_ID = API_ID =  26398147
 
-API_HASH = os.environ.get("API_HASH", "050ae2e744985b48fa37e8b2f38d7bea)
+API_HASH = os.environ.get("API_HASH", "050ae2e744985b48fa37e8b2f38d7bea")
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "7041424154:AAGIt82b-s2cMysc_XRfj7Oj6JLa7oKKjqQ")
 
