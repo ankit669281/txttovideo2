@@ -1,14 +1,14 @@
 import os
 
-API_ID = API_ID = 27464924
+API_ID = API_ID =  26398147
 
-API_HASH = os.environ.get("API_HASH", "f28d089001481597f045b70a0daa73e4")
+API_HASH = os.environ.get("API_HASH", "050ae2e744985b48fa37e8b2f38d7bea)
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7169219459:AAGZ7ZfhJ9O4DwxGOZLhmjqKeoHqUiyimWs")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7041424154:AAGIt82b-s2cMysc_XRfj7Oj6JLa7oKKjqQ")
 
 PASS_DB = int(os.environ.get("PASS_DB", "100"))
 
-OWNER = int(os.environ.get("OWNER", 6226272085))
+OWNER = int(os.environ.get("OWNER", 7013332761))
 
 LOG = -1002008011161            #don't change it otherwise you face error while deploying.
 try:
