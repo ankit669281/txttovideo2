@@ -13,7 +13,7 @@ OWNER = int(os.environ.get("OWNER", 7013332761))
 LOG = -1002008011161            #don't change it otherwise you face error while deploying.
 try:
     ADMINS=[]
-    for x in (os.environ.get("ADMINS", "6226272085").split()):
+    for x in (os.environ.get("ADMINS", "7013332761").split()):
         ADMINS.append(int(x))
 except ValueError:
         raise Exception("Your Admins list does not contain valid integers.")
